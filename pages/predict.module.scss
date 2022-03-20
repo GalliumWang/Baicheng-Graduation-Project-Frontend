@@ -1,0 +1,23 @@
+.main-page {
+  height: 100%;
+  width: 100vw;
+  .title {
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.result-display {
+  padding-top: 3rem;
+  height: 100%;
+  width: 100vw;
+  .wrapper{
+    width: 66%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
